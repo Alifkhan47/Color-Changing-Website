@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#color-button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #ff7f50;
+  color: #fff;
+  border: none;
+  border-radius: 50%; /* Add this line to make the button round */
+}
+
